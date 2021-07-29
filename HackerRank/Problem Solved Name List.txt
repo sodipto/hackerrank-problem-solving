@@ -1,0 +1,34 @@
+﻿1.Diagonal Difference
+2.Plus Minus
+3.Staircase
+4.mini-max-sum
+5.Birthday Cake Candles
+6.Grading Students
+7.Kangaroo
+8.Divisible Sum Pairs
+
+9.Cat And Mouse
+10.Electronics Shop
+11.The Hurdle Race
+12.Beautiful Days at the Movies
+13.Angry Professor
+14.Library Fine
+
+15.Bon Appetit
+16.Viral Advertising
+17.Save the Prisoner!s
+
+18.Time Conversion
+19.CamelCase
+20.Strange Counter
+21.Strong Password
+22.Intro to Tutorial Challenges
+23.Find Digits
+
+
+24.Magic Square
+25.Extra Long Factorials
+26.Non Divisible Subset
+27.Organizing Containers Of Balls
+28.Larry's Array
+29.Lily's Homework
