@@ -99,8 +99,9 @@ namespace ProblemSolving_Algorithms
             //BirthdayChocolate b = new BirthdayChocolate();
             //BreakingtheRecords b = new BreakingtheRecords();
             //DesignerPDFViewer d = new DesignerPDFViewer();
-            SockMerchant s = new SockMerchant();
-
+            //SockMerchant s = new SockMerchant();
+            //MaxMIn s = new MaxMIn();
+            Pairs p = new Pairs();
 
             // Console.WriteLine(result);
             Console.ReadKey();

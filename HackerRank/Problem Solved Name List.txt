@@ -32,3 +32,6 @@
 27.Organizing Containers Of Balls
 28.Larry's Array
 29.Lily's Homework
+
+30.Panagram
+31.Pairs
