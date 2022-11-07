@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ProblemSolving_Algorithms</RootNamespace>
     <AssemblyName>ProblemSolving_Algorithms</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -62,6 +63,7 @@
     <Compile Include="Kangaroo.cs" />
     <Compile Include="LibraryFine.cs" />
     <Compile Include="MaxMIn.cs" />
+    <Compile Include="MigratoryBirds.cs" />
     <Compile Include="MiniMaxSum.cs" />
     <Compile Include="MinimumAbsoluteDifferenceInAnArray.cs" />
     <Compile Include="Pairs.cs" />
