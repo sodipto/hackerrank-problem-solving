@@ -96,9 +96,16 @@ namespace ProblemSolving_Algorithms
             //MaxMIn s = new MaxMIn();
             //Pairs p = new Pairs();
             //int[] arr = { 1, 4, 4, 4, 5, 3, };
-            int[] arr = { 1, 2, 3, 4, 5, 4, 3, 2, 1, 3, 4, };
+            //MigratoryBirds m = new MigratoryBirds(arr.ToList());
 
-            MigratoryBirds m= new MigratoryBirds(arr.ToList());
+            //int[] arr = { 7, 2, 5, 3, 5, 3 };
+            //int[] brr = { 7, 2, 5, 4, 6, 3, 5, 3 };
+
+
+            int[] arr = { 203, 204, 205, 206, 207, 208, 203, 204, 205, 206, };
+            int[] brr = { 203, 204, 204, 205, 206, 207, 205, 208, 203, 206, 205, 206, 204, };
+
+            MissingNumbers m = new MissingNumbers(arr.ToList(), brr.ToList());
             // Console.WriteLine(result);
             Console.ReadKey();
         }

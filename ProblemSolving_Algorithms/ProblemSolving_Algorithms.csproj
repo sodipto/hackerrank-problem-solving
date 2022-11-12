@@ -63,6 +63,7 @@
     <Compile Include="Kangaroo.cs" />
     <Compile Include="LibraryFine.cs" />
     <Compile Include="MaxMIn.cs" />
+    <Compile Include="MissingNumbers.cs" />
     <Compile Include="MigratoryBirds.cs" />
     <Compile Include="MiniMaxSum.cs" />
     <Compile Include="MinimumAbsoluteDifferenceInAnArray.cs" />
