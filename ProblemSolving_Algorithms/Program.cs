@@ -101,12 +101,13 @@ namespace ProblemSolving_Algorithms
             //int[] arr = { 7, 2, 5, 3, 5, 3 };
             //int[] brr = { 7, 2, 5, 4, 6, 3, 5, 3 };
 
+            //int[] arr = { 203, 204, 205, 206, 207, 208, 203, 204, 205, 206, };
+            //int[] brr = { 203, 204, 204, 205, 206, 207, 205, 208, 203, 206, 205, 206, 204, };
 
-            int[] arr = { 203, 204, 205, 206, 207, 208, 203, 204, 205, 206, };
-            int[] brr = { 203, 204, 204, 205, 206, 207, 205, 208, 203, 206, 205, 206, 204, };
+            //int[] arr = { 1, 2, 3, 4, 5, 10, 11, 12, 13 };
+            int[] arr = { 1, 2, 3, 21, 7, 12, 14, 21, };
+            PriyankaAndToys m = new PriyankaAndToys(arr.ToList());
 
-            MissingNumbers m = new MissingNumbers(arr.ToList(), brr.ToList());
-            // Console.WriteLine(result);
             Console.ReadKey();
         }
     }
